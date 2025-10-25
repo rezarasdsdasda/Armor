@@ -1,0 +1,4 @@
+name: AntiBots
+version: '${project.version}'
+main: ru.welldev.AntiBots
+api-version: '1.16'
